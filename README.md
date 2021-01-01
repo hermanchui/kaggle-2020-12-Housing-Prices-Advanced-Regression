@@ -1,5 +1,5 @@
 # Kaggle Housing Prices Advanced Regression Challenge 
-# at https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+at https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 # Files:
  - kaggle-2020-12-housing-adv-regression-challenge.ipynb = my solution using TensorFlow
